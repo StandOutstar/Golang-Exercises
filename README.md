@@ -10,8 +10,10 @@ tree version: tree/0.0.0
 Usage: tree [-hDL]
         
 Options:
-  -D    show change datetime
+  -D	show change datetime
   -L int
-        max layers to show
-  -h    show help message
+    	max layers to show
+  -h	show help message
+  -p string
+    	show taget path
 ```
