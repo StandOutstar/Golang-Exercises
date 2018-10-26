@@ -7,12 +7,11 @@ Golang exercises.
 $ ./tree -h
 <current work path>
 tree version: tree/0.0.0
-Usage: tree [-hDf]
+Usage: tree [-hDL]
         
 Options:
   -D    show change datetime
   -L int
         max layers to show
-  -f    show relative path
   -h    show help message
 ```
